@@ -16,10 +16,9 @@
 <br>
 
 <details>
-  <summary style="font-size: 16px;"><strong id="backend">Backend (전체 보기)</strong></summary>
+  <summary style="font-size: 16px;"><strong id="backend">backend (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
-<br>
 <br>
 
 <details>
