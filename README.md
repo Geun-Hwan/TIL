@@ -27,6 +27,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="infra">Infrastructure (전체 보기)</strong></summary>
+
+- [2026-03-07-Docker-Compose-기반-서비스-배포-및-Webhook-자동화](infra/2026-03-07-Docker-Compose-기반-서비스-배포-및-Webhook-자동화.md)
 </details>
 <br>
 
