@@ -24,6 +24,11 @@
 <br>
 
 <details>
+  <summary style="font-size: 16px;"><strong id="infra">Infrastructure (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
@@ -44,6 +49,7 @@
 
 - `n8n/`: 워크플로우 설계 및 노드 활용 전략
 - `backend/`: 서버 개발 및 데이터 처리 관련 학습 기록 (Java, Python, Database, API 등)
+- `infra/`: 서버 환경 구성, 네트워크, 배포 및 운영 인프라 관련 기술 기록 (Docker, Webhook, CI/CD, Cloud 등)
 - `ai-agent/`: LLM 프롬프트 설계 및 에이전트 구축
 
 **문서 내부 양식**
