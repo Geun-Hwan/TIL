@@ -21,6 +21,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="backend">Backend (전체 보기)</strong></summary>
+
+- [2026-03-07-백엔드-성능-최적화-전략-비교](backend/2026-03-07-백엔드-성능-최적화-전략-비교.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
