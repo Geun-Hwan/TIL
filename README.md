@@ -22,6 +22,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="backend">Backend (전체 보기)</strong></summary>
 
+- [2026-03-09-메시징-시스템과-웹플럭스-기술-비교](backend/2026-03-09-메시징-시스템과-웹플럭스-기술-비교.md)
+
 - [2026-03-08-Offset-vs-Cursor-Pagination-비교](backend/2026-03-08-Offset-vs-Cursor-Pagination-비교.md)
 
 - [2026-03-07-MSA-통신-전략-REST와-Kafka](backend/2026-03-07-MSA-통신-전략-REST와-Kafka.md)
