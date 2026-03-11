@@ -22,6 +22,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="backend">Backend (전체 보기)</strong></summary>
 
+- [2026-03-12-Spring-Boot-Redis-실무-활용-패턴](backend/2026-03-12-Spring-Boot-Redis-실무-활용-패턴.md)
+
 - [2026-03-11-gRPC-마이크로서비스-통신-구축-전략](backend/2026-03-11-gRPC-마이크로서비스-통신-구축-전략.md)
 
 - [2026-03-11-서비스-간-통신-프로토콜-비교](backend/2026-03-11-서비스-간-통신-프로토콜-비교.md)
