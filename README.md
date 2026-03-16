@@ -59,6 +59,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-03-16-클로드코드-스킬-구조-분석](ai-agent/2026-03-16-클로드코드-스킬-구조-분석.md)
+
 - [2026-03-09-클로드코드-skills-활용-가이드](ai-agent/2026-03-09-클로드코드-skills-활용-가이드.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
