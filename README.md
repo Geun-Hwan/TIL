@@ -22,6 +22,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="backend">Backend (전체 보기)</strong></summary>
 
+- [2026-03-20-RESTful-API-설계-원칙](backend/2026-03-20-RESTful-API-설계-원칙.md)
+
 - [2026-03-12-Spring-Cloud-Gateway-RedisRateLimiter-구현](backend/2026-03-12-Spring-Cloud-Gateway-RedisRateLimiter-구현.md)
 
 - [2026-03-12-Spring-AI-RAG-품질-고도화-전략](backend/2026-03-12-Spring-AI-RAG-품질-고도화-전략.md)
