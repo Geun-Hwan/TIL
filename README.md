@@ -22,6 +22,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="backend">Backend (전체 보기)</strong></summary>
 
+- [2026-03-23-자바스크립트-이벤트-루프-구조와-비동기-실행-순서](backend/2026-03-23-자바스크립트-이벤트-루프-구조와-비동기-실행-순서.md)
+
 - [2026-03-20-멀티스레딩-환경의-데이터-동기화-기법](backend/2026-03-20-멀티스레딩-환경의-데이터-동기화-기법.md)
 
 - [2026-03-20-RESTful-API-설계-원칙](backend/2026-03-20-RESTful-API-설계-원칙.md)
