@@ -56,6 +56,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="infra">Infrastructure (전체 보기)</strong></summary>
 
+- [2026-03-25-Supabase-카카오-로그인-연동-프로세스](infra/2026-03-25-Supabase-카카오-로그인-연동-프로세스.md)
+
 - [2026-03-11-Spring-Boot-Prometheus-Grafana-모니터링](infra/2026-03-11-Spring-Boot-Prometheus-Grafana-모니터링.md)
 
 - [2026-03-07-Docker-Compose-기반-서비스-배포-및-Webhook-자동화](infra/2026-03-07-Docker-Compose-기반-서비스-배포-및-Webhook-자동화.md)
