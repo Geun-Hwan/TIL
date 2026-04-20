@@ -60,6 +60,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="infra">Infrastructure (전체 보기)</strong></summary>
 
+- [2026-04-20-Lighthouse-및-Core-Web-Vitals-개요-활용](infra/2026-04-20-Lighthouse-및-Core-Web-Vitals-개요-활용.md)
+
 - [2026-04-07-RabbitMQ-vs-Kafka-기술-선정-가이드](infra/2026-04-07-RabbitMQ-vs-Kafka-기술-선정-가이드.md)
 
 - [2026-03-25-Supabase-카카오-로그인-연동-프로세스](infra/2026-03-25-Supabase-카카오-로그인-연동-프로세스.md)
