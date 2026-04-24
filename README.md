@@ -22,6 +22,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="backend">Backend (전체 보기)</strong></summary>
 
+- [2026-04-24-BFF-패턴-구현-전략](backend/2026-04-24-BFF-패턴-구현-전략.md)
+
 - [2026-04-20-Java-Temporal-워크플로우-엔진-활용](backend/2026-04-20-Java-Temporal-워크플로우-엔진-활용.md)
 
 - [2026-03-26-웹-접근성-및-웹-표준-준수-가이드라인](backend/2026-03-26-웹-접근성-및-웹-표준-준수-가이드라인.md)
