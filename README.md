@@ -79,6 +79,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-04-30-Graph-RAG와-온톨로지-기초-구현](ai-agent/2026-04-30-Graph-RAG와-온톨로지-기초-구현.md)
+
 - [2026-03-25-에이전트-하네스-엔지니어링-구축](ai-agent/2026-03-25-에이전트-하네스-엔지니어링-구축.md)
 
 - [2026-03-16-클로드코드-스킬-구조-분석](ai-agent/2026-03-16-클로드코드-스킬-구조-분석.md)
